@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039042831901",
+    "firebase_url": "https://test-2091d.firebaseio.com",
+    "project_id": "test-2091d",
+    "storage_bucket": "test-2091d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039042831901:android:db30c0265c5d5503",
+        "android_client_info": {
+          "package_name": "tabian.com.fragements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039042831901-bcvk3l72e5dlv4irdhlvht8jo1a2va17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabian.com.fragements",
+            "certificate_hash": "b57b11cf562710987084b61db66e95575fda6c13"
+          }
+        },
+        {
+          "client_id": "1039042831901-pvgjqcj52tecu43808jg35hjc61qdr19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2ibojMgtG4owGGcsidUl-fIoQz2NPdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039042831901-pvgjqcj52tecu43808jg35hjc61qdr19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
